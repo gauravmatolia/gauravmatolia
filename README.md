@@ -11,10 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/gauravmatolia?tab=followers"><img src="https://img.shields.io/github/followers/gauravmatolia?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers"/></a>
   <a href="https://github.com/gauravmatolia?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20All-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"/></a>
   <a href="https://github.com/gauravmatolia/RegulatoryDocIntelligence/commits"><img src="https://img.shields.io/github/last-commit/gauravmatolia/RegulatoryDocIntelligence?label=Last%20Commit&style=for-the-badge&logo=git&logoColor=white&color=F05033" alt="Last commit"/></a>
-  <img src="https://komarev.com/ghpvc/?username=gauravmatolia&label=Profile%20Views&style=for-the-badge&color=0077B5" alt="Profile views"/>
 </p>
 
 ---
